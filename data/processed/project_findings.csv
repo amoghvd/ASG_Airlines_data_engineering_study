@@ -1,0 +1,14 @@
+Metric,Value
+Source flight rows,1020.0
+Analytical flight rows,1005.0
+Flight quarantine rows,15.0
+Overnight flights,1.0
+Average flight duration (minutes),164.62
+Unique routes,30.0
+Airlines,4.0
+Missing airline values in source,41.0
+Exact duplicate flight rows,15.0
+Missing booking status,45.0
+Invalid payment amounts,30.0
+Duplicate passenger IDs,39.0
+Missing passenger last names,10.0

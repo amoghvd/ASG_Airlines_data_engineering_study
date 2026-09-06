@@ -1,0 +1,5 @@
+table,source_rows,missing_values_observed,exact_duplicates,identifier_or_key_issues,overnight_records,invalid_or_anomalous_records
+flights,1020,41,0,0,1,0
+bookings,1000,45,0,0,0,75
+payments,1000,48,0,0,0,78
+passengers,1039,10,39,0,0,114

@@ -1,0 +1,11 @@
+Total Flights = COUNTROWS(Fact_Flight)
+
+Average Flight Duration (min) = AVERAGE(Fact_Flight[flight_duration_minutes])
+
+Overnight Flights = SUM(Fact_Flight[is_overnight])
+
+Overnight % = DIVIDE([Overnight Flights], [Total Flights])
+
+Anomalies = SUM(Fact_Flight[duration_anomaly])
+
+Anomaly % = DIVIDE([Anomalies], [Total Flights])

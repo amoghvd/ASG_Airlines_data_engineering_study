@@ -1,0 +1,5 @@
+airline_key,airline,total_flights,avg_duration_minutes,min_duration_minutes,max_duration_minutes,overnight_flights,anomaly_count,overnight_pct,anomaly_pct
+1,Air India,255,165.3883522875817,35.0,299.0,0,0,0.0,0.0
+2,IndiGo,273,164.9451824786325,30.0,300.0,0,0,0.0,0.0
+3,SpiceJet,247,163.7855456140351,32.0,300.0,1,0,0.4048582995951417,0.0
+4,Vistara,230,164.2784334057971,30.0,300.0,0,0,0.0,0.0
